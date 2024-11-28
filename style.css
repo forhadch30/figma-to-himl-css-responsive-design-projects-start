@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto";
+    /* background: linear-gradient(to right, #fdfdfd, #ebebee) */
+}
+
+/* .lieners {
+    position: absolute;
+    transform: translate(70%, 70%);
+}
+
+.high-quality {
+    background: linear-gradient(90deg, #373FFF 15.02%, #3ACAF8 82.83%);
+    font-family: Roboto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
