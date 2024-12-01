@@ -5,7 +5,7 @@ body {
     /* background: linear-gradient(to right, #fdfdfd, #ebebee) */
 }
 
-/* .lieners {
+.lieners {
     position: absolute;
     transform: translate(70%, 70%);
 }
@@ -15,4 +15,4 @@ body {
     font-family: Roboto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-} */
+}
