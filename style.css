@@ -5,13 +5,8 @@ body {
     /* background: linear-gradient(to right, #fdfdfd, #ebebee) */
 }
 
-.lieners {
-    position: absolute;
-    transform: translate(70%, 70%);
-}
-
 .high-quality {
-    background: linear-gradient(90deg, #373FFF 15.02%, #3ACAF8 82.83%);
+    background: linear-gradient(90deg, #3747ff,#3999fa, #3abef8);
     font-family: Roboto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
